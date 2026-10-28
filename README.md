@@ -1,6 +1,8 @@
 # HaloPSA Azure OpenAI Integration
 
-A step-by-step guide to connecting HaloPSA to your own Azure OpenAI resource, creating custom OpenAI methods (embeddings and ticket classification), and automating ticket updates with a runbook.
+This is a project I completed on November 5th 2024 as a part of my internship, reformatted using Claude Opus 5.5 and uploaded here as part of my portfolio. 
+
+The process was transferred into a step-by-step guide to connecting HaloPSA to your own Azure OpenAI resource, creating custom OpenAI methods (embeddings and ticket classification), and automating ticket updates with a run book.
 
 > **Status:** Proof of concept, tested in a HaloPSA sandbox. See [Limitations and next steps](#limitations-and-next-steps) before using this in production.
 
